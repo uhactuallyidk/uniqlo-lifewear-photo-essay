@@ -9,6 +9,14 @@
 
 **Key Message:** เสื้อผ้าที่เรียบง่ายเป็นส่วนหนึ่งของชีวิตที่เราเลือกใช้ในแบบของเรา
 
+## เทมเพลตสำหรับนำไปกรอก
+
+[โฟลเดอร์ templates](templates/README.md) รวมแม่แบบกลางสำหรับจัดทำงาน Digital Storytelling:
+
+- [Report Template — รายงาน 6 บท](templates/Digital_Storytelling_Report_Template.md)
+- [Slides Template — 14 สไลด์หลัก](templates/Digital_Storytelling_Slides_Template.md)
+
+**ไฟล์ในโฟลเดอร์นี้เป็นตัวเทมเพลตสำหรับนำไปกรอก** ส่วน MD ทั้ง 3 ไฟล์ด้านบนเป็นร่างเนื้อหาเฉพาะโครงงาน UNIQLO LifeWear
 ## สถานะและเครดิต
 
 ภาพต้นฉบับ: UNIQLO LifeWear magazine / Kohei Kawashima จาก [The City Classics](https://www.uniqlo.com/th/th/special-feature/lifewear-magazine/26fw/the-city-classics) ดาวน์โหลดเมื่อ 1 ตุลาคม 2569 โดยเก็บภาพต้นฉบับไว้ ไม่มีการสร้างภาพ AI
